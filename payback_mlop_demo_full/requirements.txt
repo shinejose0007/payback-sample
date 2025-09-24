@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+joblib
+pytest
+python-dotenv
+google-cloud-storage
+sqlalchemy
