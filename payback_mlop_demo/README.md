@@ -26,5 +26,4 @@ Kurz: Dieses Repository ist ein kleines, lokal ausführbares MLOps-Demoprojekt, 
 - Dieses Repo ist ein **PoC**: es zeigt End-to-End-Komponenten (Training, Containerisierung, Serving, CI/CD-Vorlage, Terraform-Beispiel). Produktionseinsatz erfordert Anpassungen, sichere Secrets-Handling, GCP-Authentifizierung und echte Infrastruktur.
 - Terraform-Dateien sind Beispiele und nicht automatisch ausgeführt.
 
----
-Viel Erfolg bei der Bewerbung — passe das PoC bei Bedarf an (z.B. Vertex AI, BigQuery, Terraform-Module).
+
