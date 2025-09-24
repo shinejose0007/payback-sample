@@ -27,7 +27,11 @@ Kurz: Dieses Repository ist ein kleines, lokal ausführbares MLOps-Demoprojekt, 
 - Terraform-Dateien sind Beispiele und nicht automatisch ausgeführt.
 
 
-wider cutting
+
+
+
+
+#wider cutting
 
 Make sure you have installed on your machine:
 
