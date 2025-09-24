@@ -31,7 +31,7 @@ Kurz: Dieses Repository ist ein kleines, lokal ausführbares MLOps-Demoprojekt, 
 
 
 
-# wider cutting
+# wider cutting (More Explanation)
 
 Make sure you have installed on your machine:
 
